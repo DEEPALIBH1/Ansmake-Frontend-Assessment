@@ -1,8 +1,7 @@
-![Image Alt text](/images/Screenshot-1.png)
+
 
 ![Image Alt text](/images/Screenshot-1.png "Optional title"))
-![Image Alt text](/images/Responsive-Screenshot2.png "Optional title"))
-![Image Alt text](/images/Responsive-Screenshot.png "Optional title"))
+![Image Alt text](/images/Responsive-Screenshot.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
